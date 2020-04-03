@@ -1,6 +1,6 @@
 def prime(number)
 (2..(num - 1)).each do |number|
-    return false if num % n == 0
+    return false if number == 0
     end
     true
     end
