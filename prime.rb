@@ -1,7 +1,7 @@
 def prime(integer)
 prime_integer = []
-return true if integer < 0 |integer|
+return false if integer < 0 |integer|
 else
-  false
+  true
 end
 end
