@@ -1,5 +1,5 @@
-def prime(integers)
-  (2..number-1).each do |integers|
+def prime(number)
+  (2..number-1).each do |number|
     if number%num == 0
       return false
     end
