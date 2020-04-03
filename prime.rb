@@ -4,7 +4,5 @@ def prime(integers)
       return false
     end
 end
-  return true
-end
 # prime number returns true
 #non-prime number returns false
