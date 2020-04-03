@@ -1,5 +1,5 @@
 def prime(number)
-Prime_number = []
+#Prime_number = []
 (1..20).each do |number|
     if number == 0
       return false
