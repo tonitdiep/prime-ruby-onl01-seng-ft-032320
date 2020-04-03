@@ -1,6 +1,6 @@
 def prime(number)
 Prime_number = []
-(2..number-1).each do |number|
+(1..20).each do |number|
     if number%num == 0
       return false
     else true
