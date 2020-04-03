@@ -1,11 +1,8 @@
 def prime(number)
-(1..20).each do |number|
-end
-  if number == 0
-    return false
-    else true
+(2..(num - 1)).each do |number|
+    return false if num % n == 0
     end
-end
-
+    true
+    end
 # prime number returns true
 #non-prime number returns false
