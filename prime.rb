@@ -1,9 +1,9 @@
 def prime?(num)
   if num <= 1
     return false
-#  else
+  else
 
-# (2..num-1).each do |num|
+(2..num-1).to_a do |num|
 #    return true if num > -1
 end
 end
