@@ -1,2 +1,2 @@
-def prime(integer)
+def prime(prime)
 end
