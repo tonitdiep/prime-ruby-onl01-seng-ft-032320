@@ -1,2 +1,2 @@
-def prime(Prime_number)
+def prime(integer)
 end
